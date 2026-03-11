@@ -39,6 +39,8 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
+
 ### ⚡ `$ ls tech-arsenal/`
 
 <div align="center">
@@ -81,6 +83,8 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
+
+
 ### 📈 `$ git log --graph`
 
 <div align="center">
@@ -117,23 +121,7 @@ me.say_hi()
 
 <div align="center">
 
-```javascript
-// ╔══════════════════════════════════════╗
-// ║     Priyanshu's Life Algorithm 🚀   ║
-// ╚══════════════════════════════════════╝
 
-const life = async () => {
-  while (true) {
-    await eat()              // 🍕 fuel up
-    await sleep()            // 😴 recharge
-    await code()             // 💻 ← the best part
-    await learn()            // 📚 level up
-    await repeat()           // 🔁 never stop
-  }
-}
-
-life().catch(() => moreCoffee()) // ☕
-```
 
 <br/>
 

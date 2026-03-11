@@ -13,10 +13,23 @@
 ![](https://img.shields.io/badge/-%F0%9F%94%A5%20Always%20Learning-facc15?style=for-the-badge&labelColor=0d1117)
 
 </div>
+<div align="center">
+
+
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshuuuraj&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/priyanshuuuraj?style=for-the-badge&color=00fff2&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
 
 ### 🧠 `$ cat about.me`
 
@@ -119,17 +132,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
 
-
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshuuuraj&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/priyanshuuuraj?style=for-the-badge&color=00fff2&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
 
 <br/>
 

@@ -1,17 +1,157 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
-<h3 align="center">A passionate MERN full stack developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,30:a78bfa,60:f472b6,100:0f0c29&height=230&section=header&text=Priyanshu%20Raj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20MERN%20Developer%20⚡&descAlignY=62&descSize=18&descColor=00fff2" width="100%"/>
 
+<br/>
 
+<div align="center">
 
-- 🔭 I’m currently working on **upgrading my skills**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=FF69B4&background=00000000&center=true&vCenter=true&multiline=true&width=750&height=120&lines=_%3E+Priyanshu+Raj;_%3E+Open+to+Work+%F0%9F%9F%A2+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+<br/>
 
-- 📫 How to reach me **rajpriyanshu758@gmail.com**
+![](https://img.shields.io/badge/-%E2%9A%A1%20MERN%20Developer-00fff2?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/-%F0%9F%87%AE%F0%9F%87%B3%20India-a78bfa?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/-%F0%9F%9F%A2%20Open%20to%20Work-f472b6?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/-%F0%9F%94%A5%20Always%20Learning-facc15?style=for-the-badge&labelColor=0d1117)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-raj-82b197286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-raj-82b197286/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajpriyanshu758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajpriyanshu758" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🧠 `$ cat about.me`
+
+```python
+class Developer:
+    name       = "Priyanshu Raj"
+    role       = "Full Stack MERN Developer"
+    location   = "India 🇮🇳"
+    email      = "rajpriyanshu758@gmail.com"
+    focus      = "Building scalable web applications"
+    status     = "Open to Opportunities 🟢"
+    hobbies    = ["coding 💻", "problem solving 🧩", "learning 📚"]
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing 🚀")
+
+me = Developer()
+me.say_hi()
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ⚡ `$ ls tech-arsenal/`
+
+<div align="center">
+
+<br/>
+
+**`// ─────── Frontend ───────`**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=10&theme=dark"/>
+
+<br/><br/>
+
+**`// ─────── Backend & Database ───────`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=10&theme=dark"/>
+
+<br/><br/>
+
+**`// ─────── Languages & DevTools ───────`**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,figma,vscode&perline=10&theme=dark"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 `$ git stats --global`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajpriyanshu758&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=00fff2&text_color=ffffff&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=rajpriyanshu758&theme=midnight-purple&hide_border=true&background=0d1117&ring=f472b6&fire=00fff2&currStreakLabel=f472b6&sideLabels=ffffff&dates=888888"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpriyanshu758&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ffffff"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🏆 `$ git achievements`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajpriyanshu758&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📈 `$ git log --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajpriyanshu758&bg_color=0d1117&color=f472b6&line=00fff2&point=a78bfa&area=true&area_color=302b63&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🌐 `$ open --connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/priyanshu-raj-82b197286/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/rajpriyanshu758" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rajpriyanshu758@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linkedin,gmail,github&theme=dark"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```javascript
+// ╔══════════════════════════════════════╗
+// ║     Priyanshu's Life Algorithm 🚀   ║
+// ╚══════════════════════════════════════╝
+
+const life = async () => {
+  while (true) {
+    await eat()              // 🍕 fuel up
+    await sleep()            // 😴 recharge
+    await code()             // 💻 ← the best part
+    await learn()            // 📚 level up
+    await repeat()           // 🔁 never stop
+  }
+}
+
+life().catch(() => moreCoffee()) // ☕
+```
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajpriyanshu758&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/rajpriyanshu758?style=for-the-badge&color=00fff2&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:f472b6,70:a78bfa,100:00fff2&height=140&section=footer&text=Happy%20Coding%20⚡&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>

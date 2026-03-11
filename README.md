@@ -69,12 +69,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajpriyanshu758&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=00fff2&text_color=ffffff&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=rajpriyanshu758&theme=midnight-purple&hide_border=true&background=0d1117&ring=f472b6&fire=00fff2&currStreakLabel=f472b6&sideLabels=ffffff&dates=888888"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuuuraj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=00fff2&text_color=ffffff&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=priyanshuuuraj&theme=midnight-purple&hide_border=true&background=0d1117&ring=f472b6&fire=00fff2&currStreakLabel=f472b6&sideLabels=ffffff&dates=888888"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpriyanshu758&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ffffff"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuuuraj&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ffffff"/>
 
 </div>
 
@@ -84,7 +84,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajpriyanshu758&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=priyanshuuuraj&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
 
@@ -94,7 +94,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajpriyanshu758&bg_color=0d1117&color=f472b6&line=00fff2&point=a78bfa&area=true&area_color=302b63&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshuuuraj&bg_color=0d1117&color=f472b6&line=00fff2&point=a78bfa&area=true&area_color=302b63&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -146,9 +146,9 @@ life().catch(() => moreCoffee()) // ☕
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajpriyanshu758&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshuuuraj&color=f472b6&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/rajpriyanshu758?style=for-the-badge&color=00fff2&labelColor=0d1117&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/priyanshuuuraj?style=for-the-badge&color=00fff2&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 

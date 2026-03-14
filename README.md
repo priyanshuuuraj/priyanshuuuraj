@@ -62,7 +62,7 @@ me.say_hi()
 
 **`// ─────── Frontend ───────`**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=10&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind&perline=10&theme=dark"/>
 
 <br/><br/>
 
@@ -86,27 +86,7 @@ me.say_hi()
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuuuraj&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=00fff2&text_color=ffffff&count_private=true&rank_icon=github"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=priyanshuuuraj&theme=midnight-purple&hide_border=true&background=0d1117&ring=f472b6&fire=00fff2&currStreakLabel=f472b6&sideLabels=ffffff&dates=888888"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuuuraj&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ffffff"/>
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-
-### 📈 `$ git log --graph`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshuuuraj&bg_color=0d1117&color=f472b6&line=00fff2&point=a78bfa&area=true&area_color=302b63&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌐 `$ open --connect`
 
@@ -116,24 +96,16 @@ me.say_hi()
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/profile/rajpriyanshu758" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-&nbsp;
 <a href="mailto:rajpriyanshu758@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=linkedin,gmail,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:f472b6,70:a78bfa,100:00fff2&height=140&section=footer&text=Happy%20Coding%20⚡&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%"/>

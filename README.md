@@ -102,7 +102,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=linkedin,gmail&theme=dark"/>
+
 
 
 

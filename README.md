@@ -74,7 +74,7 @@ me.say_hi()
 
 **`// ─────── Languages & DevTools ───────`**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,figma,vscode&perline=10&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,vscode&perline=10&theme=dark"/>
 
 </div>
 

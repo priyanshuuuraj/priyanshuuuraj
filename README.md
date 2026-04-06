@@ -35,7 +35,7 @@
 
 ```python
 class Developer:
-    name       = "Priyanshu Raj"
+    name       = "PRIYANSHU RAJ"
     role       = "MERN Developer"
     location   = "India 🇮🇳"
     email      = "rajpriyanshu758@gmail.com"
